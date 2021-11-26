@@ -1,0 +1,10 @@
+
+<suite name="Facebook">
+    <test name="test">
+        <classes>
+            <class name="testCases.TC01_Login" />
+            <class name="testCases.TC02_Signup" />
+            <class name="testCases.TC03_Profile" />
+        </classes>
+    </test>
+</suite>
